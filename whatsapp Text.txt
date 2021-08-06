@@ -15,3 +15,5 @@
 8)Lastseen Hide code
 
 9) Audio / video features added
+
+10) Fingerprint - NaveenManoj
