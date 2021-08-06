@@ -16,4 +16,4 @@
 
 9) Audio / video features added
 
-10) Fingerprint - NaveenRayappan
+10) updated Fingerprint
